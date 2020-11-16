@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\bin\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.exe
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\bin\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.deps.json
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\bin\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\bin\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\bin\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.dll
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\bin\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.pdb
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\obj\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\obj\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\obj\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\obj\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\obj\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.dll
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\obj\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.pdb
+C:\Users\Bla\source\repos\DataTypes\29.DaysCalculationNonWorkingDays\obj\Debug\netcoreapp3.1\29.DaysCalculationNonWorkingDays.genruntimeconfig.cache
